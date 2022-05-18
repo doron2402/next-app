@@ -3,7 +3,7 @@ import FeatureSection from '../components/FeatureSection'
 import Layout from '../components/Layout'
 
 const IndexPage = () => (
-  <Layout title="Home | Next.js + TypeScript Example">
+  <Layout>
     <h1>Hello Next.js 👋</h1>
     <FeatureSection title="Blah Blah" />
     <p>

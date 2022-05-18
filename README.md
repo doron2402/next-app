@@ -1,6 +1,5 @@
 # NextApp Example
 
-
 ## Deployment
 
 ### Useful articles
