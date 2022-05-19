@@ -4,8 +4,7 @@ import Layout from '../components/Layout'
 
 const IndexPage = () => (
   <Layout>
-    <h1>Hello Next.js 👋</h1>
-    <FeatureSection title="Blah Blah" />
+    <FeatureSection title="Keep everything organized in one place" />
     <p>
       <Link href="/about">
         <a>About</a>

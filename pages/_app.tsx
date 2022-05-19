@@ -10,17 +10,17 @@ const App: NextPage<AppProps> = ({ Component, pageProps }) => {
     <Fragment>
       <Head>
         <meta charSet="UTF-8" />
-        <title>Local subscriptions made easy</title>
+        <title>Find.ai help you find everything in seconds</title>
         <meta
           name="description"
-          content="Local subscriptions made easy. Build loyalty, increase repeat orders, and expand your customer base."
+          content=""
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta property="og:url" content="https://onboarding.per-diem.co" />
         <meta property="og:title" content="Local subscriptions made easy" />
         <meta
           property="og:description"
-          content="Local subscriptions made easy. Build loyalty, increase repeat orders, and expand your customer base."
+          content=""
         />
         <meta
           property="og:image"
