@@ -5,6 +5,7 @@
 ### Useful articles
 - https://dev.to/shadid12/how-to-deploy-your-node-js-app-on-aws-with-nginx-and-ssl-3p5l
 - https://nextjs.org/learn/basics/create-nextjs-app
+- https://gist.github.com/jjsquady/5399d6e1b23f501083a9c262d806e248
 
 
 ## Notes
