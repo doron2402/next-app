@@ -7,8 +7,11 @@ on:
       paths-ignore:
         - 'docs/**'
 
+env:
+  REMOTE_HOST: 'doron.perdiemmembership.com'
+  USERNAME: 'devop'
 jobs:
-  build_app:
+  build_and_deploy:
     runs-on: ubuntu-latest
 
     steps:
